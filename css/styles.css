@@ -12,7 +12,7 @@ input {
     display: flex;
 }
 
-.container {
+.gallery {
     width: 75vw;
     margin: 0 auto;
     display: grid;
@@ -21,6 +21,6 @@ input {
     grid-template-rows: repeat(3, 1fr);
 }
 
-.container img {
+.gallery img {
     width: 100%;
 }
